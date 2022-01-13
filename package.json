@@ -1,0 +1,20 @@
+{
+  "name": "asincronismojs",
+  "version": "1.0.0",
+  "description": "Proyecto de curso de Asincronismo con JavaScrip de Platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheDiego350z1/AsincronismoJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheDiego350z1/AsincronismoJS/issues"
+  },
+  "homepage": "https://github.com/TheDiego350z1/AsincronismoJS#readme"
+}
