@@ -4,7 +4,9 @@
   "description": "Proyecto de curso de Asincronismo con JavaScrip de Platzi",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "callback": "node src/callback/index.js",
+    "promesas": "node src/promesas/index.js",
+    "promesas:challenge": "node src/promesas/challenge.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/TheDiego350z1/AsincronismoJS/issues"
   },
-  "homepage": "https://github.com/TheDiego350z1/AsincronismoJS#readme"
+  "homepage": "https://github.com/TheDiego350z1/AsincronismoJS#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
